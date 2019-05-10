@@ -1,0 +1,7 @@
+.tower{
+    height: 20em;
+    width: 3em;
+    background-color: #f4ad42;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}

@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+}
+.tower-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tower{
+    height: 20em;
+    width: 3em;
+    background-color: burlywood;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column-reverse;
+}
+
+.board{
+    height: 3em;
+    width: 100%;
+    background-color: burlywood;
+}
+
+/* Disks */
+.disk1{
+    height: 1em;
+    width: 6em;
+    background-color: blue;
+}
+
+.disk2{
+    height: 1em;
+    width: 7em;
+    background-color: red;
+}
+
+.disk3{
+    height: 1em;
+    width: 8em;
+    background-color: yellow;
+}
+
+.disk4{
+    height: 1em;
+    width: 9em;
+    background-color: green;
+}
+
+.disk5{
+    height: 1em;
+    width: 10em;
+    background-color: purple;
+}
